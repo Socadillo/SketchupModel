@@ -15,7 +15,9 @@ It is an industrial rice steamer, to be converted to a smoking chamber.
 
 ##A smaller heating element will be installed near the bottom of the unit
   - A stainless steel pan of wood chips/sugar cane pulp will be placed on it
-      - unsure how to mount the smoke element at this time\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+      - \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+      - \\\\\unsure how to mount the smoke element at this time\\\\\\\\\
+      - \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
       - All power A/C connections will be protected by removable plate on smoker body
   - Timed outputs from the arduino will activate a SSR relay to provide power to the heating element
      - Signal wires should be contained in the wiring rail
