@@ -1,10 +1,10 @@
-## Sketchup Model
+# Sketchup Model
 
 Preliminary sketchup model of what I plan to construct.
 
 It is an industrial rice steamer, to be converted to a smoking chamber.
 
-#A large heating element will be installed in the bottom of the chamber
+##A large heating element will be installed in the bottom of the chamber
   - The large heating element (1000-2000watts) will be installed
   - Element will be mounted in predrilled holes in rice cooked
       - Fill any un-needed holes with stainless steel washers and bolts
