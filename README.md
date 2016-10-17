@@ -87,7 +87,7 @@ It is an industrial rice steamer, to be converted to a smoking chamber.
       - Protect the insulation from smoke by lining the passage with stainless flashing or something else
 
 ##Circulation
-  Possible convection fan installation on rear of smoker body
+  - Possible convection fan installation on rear of smoker body
       - Smoker must remain a minimum width
         - Fan shaft enters though the main smoker body
             - Large blade mounted to shaft inside of smoking chamber for circulation
