@@ -72,15 +72,17 @@ It is an industrial rice steamer, to be converted to a smoking chamber.
   - Stainless steel box with angled front panel
       - LCD screen will display smoker  information
       - 3 waterproof buttons will be used for manually programming the smoker
+      - Smoke on Indicator light
+      - Heat on Indicator light
       - The box will have 4 small rubber feet to raise it off the surface of the smoker
       - The rear of the box will have a 16 pin connector
           - Connect to the smoker using a 16pin cable
       
 ##Ventilation
-  Ventilation Holes near the bottom of the smoker
+  -Ventilation Holes near the bottom of the smoker
       - Check exisiting holes in rice cooker body for feasability
       - Protect the insulation from smoke by lining the passage with stainless flashing or something else
-  Ventilation Holes near the top of the smoker
+  -Ventilation Holes near the top of the smoker
       - Check exisiting holes in rice cooker body for feasability
       - Protect the insulation from smoke by lining the passage with stainless flashing or something else
 
